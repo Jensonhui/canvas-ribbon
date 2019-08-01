@@ -31,5 +31,5 @@
 
 ### 3. 效果
 
-Jensonhui's blog ![https://jensonhui.top]
-![展示]()  
+Jensonhui's blog: https://jensonhui.top
+![展示](https://github.com/Jensonhui/canvas-ribbon/blob/master/ribot.png)  
